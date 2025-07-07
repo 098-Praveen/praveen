@@ -54,7 +54,7 @@ These are functions that perform specific steps in the build process:
 In Yocto, there are two types:
 
 1. **Build Time Dependency**:
-   - Needed when building the software.
+   - Needed while compiling the software.
    - Requires compilers, header files, and build tools.
 
 2. **Run Time Dependency**:
